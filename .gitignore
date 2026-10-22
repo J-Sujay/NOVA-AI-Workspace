@@ -1,0 +1,13 @@
+
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+NOVA_Chatbot_env/
+.streamlit/secrets.toml
+*.sql
+.streamlit/config.toml

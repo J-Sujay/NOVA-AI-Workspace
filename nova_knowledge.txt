@@ -1,0 +1,9 @@
+
+NOVA Chatbot Project
+
+NOVA is an AI chatbot built using Python.
+It uses Gemini AI to answer user questions.
+MySQL stores user messages, chatbot responses, and timestamps.
+NOVA can respond to predefined greetings and common questions.
+The project will include document question answering,
+sentiment analysis, and a Streamlit web interface.
